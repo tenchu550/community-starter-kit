@@ -12,9 +12,9 @@ There are many ways you can help us make this project better. Every repository i
 
 - **development-needed**: developer need
 - **qa-needed**: DESCRIPTION QA NEED
-- **documentation-needed**: DESCRIPTION PLACEHOLDER
-- **bug-high-priority**: DESCRIPTION PLACEHOLDER
-- **bug-low-priority**: DESCRIPTION PLACEHOLDER
-- **help-wanted**: DESCRIPTION PLACEHOLDER
+- **documentation-needed**: docs 
+- **bug-high-priority**: debug + 
+- **bug-low-priority**: debug-
+- **help-wanted**: help
 
 You can also help by translating documentation and reviewing open pull requests.
